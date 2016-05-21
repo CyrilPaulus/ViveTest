@@ -1,5 +1,7 @@
 # ViveTest
 
+[![ViveTest](http://img.youtube.com/vi/kvyIMBz5v7U/0.jpg)](https://www.youtube.com/watch?v=kvyIMBz5v7U "ViveTest")
+
 ViveTest is a simple game made in a few hours using Unity, SteamVR and the HTC Vive.
 The goal of this game was to see how simple it would be to make a basic "Jenga" game.
 
@@ -16,7 +18,7 @@ The controllers have 3 modes :
 
 ## Release
 
-If you don't want to build the game yourself and want to try it right away, you should find a Windows build in the release section of this GitHub.
+If you don't want to build the game yourself and want to try it right away, you should find a Windows build in the [release section](https://github.com/CyrilPaulus/ViveTest/releases) of this GitHub.
 
 ## Thanks
 
